@@ -1,0 +1,46 @@
+body{
+	background-color:#D6EAF8;
+	font-family: Century, Gothic, Futura, Verdana,sans-serif;
+}
+ul#fornavigation li {
+	list-style-type:none;
+	display:inline;
+	background-color:#58D68D;
+	border-right:10px solid red;
+	padding: 5px 20px
+}
+img#formapandflag{
+	width:500px;
+	height:500px;
+	margin:20px 20px;
+}
+p{
+	margin-bottom:20px;
+}
+h2{
+	margin-bottom:10px;
+}
+.boldandblue{
+	font-weight:bold;
+	color:blue;
+}
+.boldandred{
+	font-weight:bold;
+	color:red;
+	margin-bottom:20px;
+}
+div.marginandfontsize{
+	margin-left:20px; 
+	font-size:30px;
+	font-weight:bold;
+}
+a:visited {
+  color: #A569BD;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
